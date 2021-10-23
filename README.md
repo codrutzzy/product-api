@@ -57,3 +57,8 @@ There will be the defauld CRUD ones related to products:
 * @Route("/listOrders/{startDate}/{endDate}", name="list_order", methods={"GET"})
 
 ```
+
+//TODO
+Use OAUTH 2.0 to secure the checkout process and to grant access to orders. 
+
+
